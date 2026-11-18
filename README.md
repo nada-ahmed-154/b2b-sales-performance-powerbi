@@ -8,7 +8,7 @@
 
 An interactive **Power BI** dashboard built on a B2B Sales Pipeline dataset to monitor revenue, sales opportunities, product performance, and sales team efficiency through clean data modeling and dynamic visualizations.
 
-![B2B Sales Dashboard Preview](images/dashboard.png)
+![B2B Sales Dashboard Preview](b2b-sales.png)
 
 ---
 
